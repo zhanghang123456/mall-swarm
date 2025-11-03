@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+spring-security-jwt-refactor/
+spring-security-jwt-solution/
+spring-security-jwt-tutorial/
+**/target/
+.vscode/
+.idea/
+*.iml
+*.env
+*.ear
+*.log
+*.class
+*Test.java
+**/test/
